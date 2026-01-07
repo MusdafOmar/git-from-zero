@@ -1,3 +1,5 @@
 Hello git from vs code 
 
 Secondline added 
+
+Third line from git practice 
